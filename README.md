@@ -29,7 +29,6 @@ php artisan migrate;
 5° Ainda no terminal digite o comando:
 php artisan serve.
 
-Com isto você iniciará o servidor e poderá testar a loja através do seu browser de internet através da porta http://127.0.0.1:8000/
+Com isto você iniciará o servidor e poderá testar a loja através do seu browser, no seu navageador de internet através da porta http://127.0.0.1:8000/
 
-Feito estes passos, vc poderá rodar este projeto no seu browser do seu navageador.
 
